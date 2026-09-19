@@ -1,0 +1,31 @@
+[
+  {
+    "title": "RoboTok: An Internet-Scale Data Engine for Human Demonstration Video Retrieval and Dexterous Manipulation Learning",
+    "authors": "*Howard H. Qian*, Yiting Chen, Yunfei Xie, Kejia Ren, Podshara Chanrungmaneekul, Gaotian Wang, Bowen Wen, Chen Wei, Kaiyu Hang",
+    "venue": "arXiv",
+    "year": 2026,
+    "affiliations": [
+      {
+        "name": "Rice University",
+        "logo": "assets/logo_rice.png"
+      },
+      {
+        "name": "NVIDIA",
+        "logo": "assets/logo_nvidia.svg"
+      }
+    ],
+    "description": "RoboTok is an internet-scale data engine for robot manipulation learning. It organizes internet human demonstration videos into a torso-relative 3D hand trajectory embedding space and retrieves clips with similar hand motions for a given query demonstration.",
+    "video": {
+      "src": "https://rice-robotpi-lab.github.io/RoboTok/static/videos/teaser/teaser.mp4",
+      "poster": "https://rice-robotpi-lab.github.io/RoboTok/static/videos/teaser/teaser_poster.jpg",
+      "width": 1920,
+      "height": 1204
+    },
+    "links": {
+      "site": "https://rice-robotpi-lab.github.io/RoboTok/",
+      "pdf": "https://arxiv.org/pdf/2609.03199",
+      "arxiv": "https://arxiv.org/abs/2609.03199",
+      "code": "https://github.com/Rice-RobotPI-Lab/RoboTok-Code"
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "title": "RoboTok: An Internet-Scale Data Engine for Human Demonstration Video Retrieval and Dexterous Manipulation Learning",
+    "authors": "*Howard H. Qian*, Yiting Chen, Yunfei Xie, Kejia Ren, Podshara Chanrungmaneekul, Gaotian Wang, Bowen Wen, Chen Wei, Kaiyu Hang",
+    "venue": "arXiv",
+    "year": 2026,
+    "image": "assets/robotok.png",
+    "tags": ["learning from human videos", "video retrieval", "dexterous manipulation"],
+    "links": {
+      "site": "https://rice-robotpi-lab.github.io/RoboTok/",
+      "pdf": "https://arxiv.org/pdf/2609.03199",
+      "arxiv": "https://arxiv.org/abs/2609.03199",
+      "code": "https://github.com/Rice-RobotPI-Lab/RoboTok-Code"
+    }
+  },
+  {
+    "title": "EgoInfinity: A Web-Scale 4D Hand-Object Interaction Data Engine for Any-View Robot Retargeting and Video-to-Action Robot Learning",
+    "authors": "Gaotian Wang, Kejia Ren, Andrew Morgan, Yiting Chen, *Howard H. Qian*, Podshara Chanrungmaneekul, Kaiyu Hang",
+    "venue": "arXiv",
+    "year": 2026,
+    "image": "assets/egoinfinity.png",
+    "tags": ["learning from human videos", "4D hand-object interaction", "cross-embodiment retargeting"],
+    "links": {
+      "site": "https://rice-robotpi-lab.github.io/EgoInfinity/",
+      "pdf": "https://arxiv.org/pdf/2606.17385",
+      "arxiv": "https://arxiv.org/abs/2606.17385",
+      "code": "https://github.com/Rice-RobotPI-Lab/EgoInfinity"
+    }
+  },
+  {
+    "title": "MotionBits: Video Segmentation through Motion-Level Analysis of Rigid Bodies",
+    "authors": "*Howard H. Qian*, Kejia Ren, Yu Xiang, Vicente Ordonez, Kaiyu Hang",
+    "venue": "arXiv",
+    "year": 2026,
+    "image": "assets/MotionBits.png",
+    "tags": ["interactive perception", "motion segmentation"],
+    "links": {
+      "pdf": "https://arxiv.org/pdf/2603.06846",
+      "arxiv": "https://arxiv.org/abs/2603.06846"
+    }
+  },
+  {
+    "title": "rt-RISeg: Real-Time Model-Free Robot Interactive Segmentation for Active Instance-Level Object Understanding",
+    "authors": "*Howard H. Qian*, Yiting Chen, Gaotian Wang, Podshara Chanrungmaneekul, Kaiyu Hang",
+    "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "year": 2025,
+    "image": "assets/rtriseg.png",
+    "tags": ["interactive perception", "object segmentation", "real-time"],
+    "links": {
+      "site": "https://howardqian201.github.io/rt-RISegProjectPage/",
+      "pdf": "https://arxiv.org/pdf/2507.10776",
+      "arxiv": "https://arxiv.org/abs/2507.10776",
+      "video": "https://www.youtube.com/watch?v=--TtC88GT_A"
+    }
+  },
+  {
+    "title": "Robust Peg-in-Hole Assembly under Uncertainties via Compliant and Interactive Contact-Rich Manipulation",
+    "authors": "Yiting Chen, Kenneth Kimble, *Howard H. Qian*, Podshara Chanrungmaneekul, Robert Seney, Kaiyu Hang",
+    "venue": "Robotics Science and Systems (RSS)",
+    "year": 2025,
+    "image": "assets/peginhole.png",
+    "tags": ["compliant manipulation", "manipulation funnels"],
+    "links": { 
+      "pdf": "https://www.roboticsproceedings.org/rss21/p060.pdf", 
+      "arxiv": "https://arxiv.org/abs/2506.22766", 
+      "video": "https://www.youtube.com/watch?v=p-hBJvBSqF8"
+    }
+  },
+  {
+    "title": "RISeg: Robot Interactive Object Segmentation via Body Frame-Invariant Features",
+    "authors": "*Howard H. Qian*, Yangxiao Lu, Kejia Ren, Gaotian Wang, Ninad Khargonkar, Yu Xiang, Kaiyu Hang",
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "year": 2024,
+    "image": "assets/riseg.png",
+    "tags": ["interactive perception", "object segmentation"],
+    "links": { 
+      "site": "https://howardqian201.github.io/RISegProjectPage/",
+      "pdf": "https://arxiv.org/pdf/2403.01731", 
+      "arxiv": "https://arxiv.org/abs/2403.01731", 
+      "video": "https://www.youtube.com/watch?v=K_FU310Jm1k"
+    }
+  },
+  {
+    "title": "Do Drivers Respond to Lead Vehicles Gradually or Suddenly?",
+    "authors": "Myriam Oliver, Bradley W. Weaver, Patricia R. DeLucia, *Howard H. Qian*, Jason Jupe, and Rosemary Yang",
+    "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+    "year": 2022,
+    "image": "assets/delucia.png",
+    "tags": ["human-computer interaction", "driving", "response", "reaction"],
+    "links": { "scholar": "https://scholar.google.com/scholar_lookup?title=Do+drivers+respond+to+lead+vehicles+gradually+or+suddenly%3F&author=M.+Oliver&author=B.W.+Weaver&author=P.R.+DeLucia&author=H.+Qian&author=J.+Jupe&author=R.+Yang&publication_year=2022&journal=Proceedings+of+the+Human+Factors+and+Ergonomics+Society+Annual+Meeting&pages=933&doi=10.1177%2F1071181322661367" }
+  }
+]
+
+
