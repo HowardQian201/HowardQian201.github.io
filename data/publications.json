@@ -1,5 +1,19 @@
 [
   {
+    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+    "authors": "Yunfei Xie, *Howard H. Qian*, Shiyi Lan, Kaiyu Hang, Chen Wei",
+    "venue": "arXiv",
+    "year": 2026,
+    "image": "assets/sensorimotor_alignment.png",
+    "tags": ["robot foundation models", "representation learning", "offline evaluation"],
+    "links": {
+      "site": "https://yunfeixie233.github.io/s2/",
+      "pdf": "https://arxiv.org/pdf/2610.31670",
+      "arxiv": "https://arxiv.org/abs/2610.31670",
+      "code": "https://github.com/yunfeixie233/sensorimotor-alignment"
+    }
+  },
+  {
     "title": "RoboTok: A Scalable Data Engine for Internet Demonstration Video Retrieval and Dexterous Manipulation Learning",
     "authors": "*Howard H. Qian*, Yiting Chen, Yunfei Xie, Kejia Ren, Podshara Chanrungmaneekul, Gaotian Wang, Bowen Wen, Chen Wei, Kaiyu Hang",
     "venue": "arXiv",
